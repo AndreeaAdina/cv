@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#obiect{
+  color: rgb(15, 4, 54);
+  font-family:'Times New Roman', Times, serif;
+  font-weight:bold;  
+}
+h1 {
+  color: rgb(117, 73, 73);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-style: italic;
+}
+h2{
+  background-color: rgb(177, 221, 206);
+  color: rgb(71, 164, 240);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 150%;
+}
+h3{
+  color: rgb(106, 78, 134);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+p{
+  color: rgb(17, 44, 110);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 200;
+
+}
+span{
+  color: rgb(97, 70, 124);
+  font-family: 'Times New Roman', Times, serif;
+
+}
+div {
+  width: 600px;
+  margin: auto;
+  border: 0px 
+}
+ul{
+  list-style-type: circle;
+}
+li{
+  color: rgb(6, 29, 48);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+}
+.experienta{
+  color: rgb(177, 24, 157);
+  font-family:'Courier New', Courier, monospace;
+  font-style:normal;
+  font-weight:initial 
+}
